@@ -99,10 +99,15 @@ I’m a dedicated and goal-oriented IT professional with a strong background in 
 Explore write-ups, capture-the-flag walkthroughs, and penetration testing notes.  
 > 📁 [`/labs`](https://github.com/lawrencemoriango/labs) - *Coming Soon...*
 
+### 🌐 **Smart Link Connect-Hub (Smart Link 360 Technologies)**
+> A digital community platform designed to provide internet access support, installation guides, and connectivity resources.  
+> `Technologies:` React, Next.js, Tailwind CSS  
+> 🚧 Currently under development
+
 ### 🌐 **Community Platform: Vijana Vision**
 > A digital platform empowering youth through engagement and opportunities.  
 > `Technologies:` React, Next, Laravel, TailwindCSS, MySQL  
-> 🚧 In Progress
+> 🚧 Currently under development
 
 ### 🧠 **A.I.R.S Platform (Green World Campaign)**
 > Built features for the Automated Incentives for Regenerative Stewardship platform.  
