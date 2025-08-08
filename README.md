@@ -41,7 +41,6 @@ I’m a dedicated and goal-oriented IT professional with a strong background in 
 - Software Documentation & Reporting
 - Technical Support & User Training
 
----
 
 ## 🧰 Tech Toolbox & Skill Badges
 
@@ -82,6 +81,7 @@ I’m a dedicated and goal-oriented IT professional with a strong background in 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF4088?style=for-the-badge&logo=fastapi&logoColor=white)
 
+---
 
 <!--## 📊 GitHub Stats
 
@@ -90,8 +90,6 @@ I’m a dedicated and goal-oriented IT professional with a strong background in 
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=lawrencemoriango&style=flat-square&color=blue)
 -->
-
-
 
 ## 📂 Featured Projects
 
@@ -126,14 +124,14 @@ Explore write-ups, capture-the-flag walkthroughs, and penetration testing notes.
 
 ---
 
-## 📈 Career Highlights
+<!--## 📈 Career Highlights
 
 - ✅ Designed, deployed, and maintained robust networks at **F&L Networks**  
 - ✅ Developed full-stack systems for **Green World Campaign** and **StoreSoko Trading Solutions**
 - ✅ Led IT operations and system optimization at **BillSasa Kenya**
 - ✅ Contributed to network optimization and hardware reliability at **Muthu Nyali Beach Hotel & Spa**
 
----
+--->
 
 ## 💬 Let's Connect
 
